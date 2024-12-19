@@ -1,0 +1,5 @@
+to input data
+for every space for in the location name add "-" rather space
+for example 
+bus-stop-3
+police-station-2
