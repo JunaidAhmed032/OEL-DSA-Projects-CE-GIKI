@@ -13,7 +13,7 @@ Our network packet analyzer captures packets transmitted over a network, decodes
 - Packet Deletion: Deletes packets and supports undo and redo functionality.
 - Sorting: Sorts packets by priority.
 - Search Functionality: Search for packets based on priority or source using a Binary Search Tree (BST).
-- High Priority Packet Count**: Counts and displays packets that exceed a given priority threshold.
+- High Priority Packet Count: Counts and displays packets that exceed a given priority threshold.
 - Encryption: Packets are encrypted using XOR encryption for security.
 
 
