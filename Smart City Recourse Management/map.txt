@@ -1,0 +1,106 @@
+townhall 0
+court 2.5
+GHQ 2.5
+bus-stop-1 2
+hospital-1 3
+nullptr
+court 0
+townhall 2.5
+fire-station 3
+bank-1 2
+police-station 2
+nullptr
+GHQ 0
+townhall 2.5
+bus-stop-1 3
+mall 3
+nullptr
+bus-stop-1 0
+GHQ 3
+police-station 1.5
+school-1 2.5
+town-hall 2
+hospital-2 3
+stadium 4
+nullptr
+mall 0
+GHQ 3
+housing-1 3
+hospital-1 2
+nullptr
+fire-station 0
+court 3
+hospital-1 2.5
+bus-stop-2 2
+nullptr
+hospital-1 0
+fire-station 2.5
+mall 2
+housing-1 2.5
+bus-stop-2 3
+nullptr
+bus-stop-2 0
+hospital-1 3
+fire-station 2
+school-2 1
+police-station-2 2
+nullptr
+school-2 0
+bus-stop-2 1
+housing-1 3.5
+mosque-2 2
+nullptr
+police-station-2 0
+bus-stop-2 2
+nullptr
+mosque-2 0
+school-2 2
+housing-1 1.5
+nullptr
+housing-1 0
+mall 3
+school-2 3.5
+hospital-1 2.5
+mosque-2 1.5
+nullptr
+police-station-1 0
+bank-1 2
+bus-stop-1 1.5
+court 2
+nullptr
+school-1 0
+hospital-2 2
+mosque 1
+bus-stop-1 2.5
+nullptr
+mosque 0
+school-1 1
+housing-2 1.5
+nullptr
+housing-2 0
+mosque 1.5
+bus-stop-3 1
+stadium 4
+nullptr
+bus-stop-3 0
+housing-2 1
+hospital-2 2.5
+university 2
+nullptr
+hospital-2 0
+bus-stop-3 2.5
+school-1 2
+university 1.5
+nullptr
+university 0
+bus-stop-3 2
+hospital-2 1.5
+nullptr
+stadium 0
+housing-2 4
+bus-stop-1 4
+nullptr
+bank-1 0
+police-station-1 2
+court 2
+nullptr
